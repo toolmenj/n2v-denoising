@@ -8,11 +8,8 @@
 [![Noise2Void](https://img.shields.io/badge/Noise2Void-Latest-green.svg)](https://github.com/csbdeep/csbdeep)
 [![GPU-Ready](https://img.shields.io/badge/GPU-Ready-brightgreen.svg)](#硬體需求)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-**國立臺灣大學 生物機電工程學系 智慧農業與機器視覺實驗室**  
-*National Taiwan University, Dept. of Biomechatronics Engineering*  
-**研究員 / 簡報者 (Presenter):** 鄧杰修 (Chieh-Hsiu Teng) | **指導教授 (Advisor):** 郭彥甫 教授 (Dr. Yan-Fu Kuo)
-
+ 
+**研究員 / 簡報者 (Presenter):** 鄧杰修 (Chieh-Hsiu Teng) |
 </div>
 
 ---
@@ -27,7 +24,6 @@
 - [預測與結果 (Prediction & Results)](#-預測與結果-prediction--results)
 - [目錄結構 (Repository Structure)](#-目錄結構-repository-structure)
 - [常見問題與故障排除 (FAQ & Troubleshooting)](#-常見問題與故障排除-faq--troubleshooting)
-- [誌謝 (Acknowledgments)](#-誌謝-acknowledgments)
 
 ---
 
@@ -435,33 +431,12 @@ history = model.train(X_new, epochs=50)  # 較少訓練回合
 
 ---
 
-## 🙏 誌謝 (Acknowledgments)
-
-感謝以下單位與個人對本項目的貢獻：
-
-- **國立臺灣大學 生物機電工程學系** - 提供硬體設備與研究指導
-- **郭彥甫 教授** - 研究方向指導與技術建議
-- **CSBDeep 開源社群** - 高品質的 Noise2Void 實現
-- **開源貢獻者** - TensorFlow, scikit-image 等優秀工具
-
----
-
 ## 📄 授權 (License)
 
 本項目採用 **MIT License** 授權。詳見 [LICENSE](LICENSE) 文件。
 
 ---
 
-## 📧 聯絡方式 (Contact)
-
-如有任何問題或建議，歡迎聯絡：
-
-- **研究員**: 鄧杰修 (Chieh-Hsiu Teng)
-- **指導教授**: 郭彥甫 (Dr. Yan-Fu Kuo)
-- **所屬機構**: 國立臺灣大學 生物機電工程學系
-- **實驗室**: 智慧農業與機器視覺實驗室
-
----
 
 **最後更新 (Last Updated)**: 2025-08-13  
 **版本 (Version)**: 1.0.0
