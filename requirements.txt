@@ -1,0 +1,8 @@
+numpy
+scikit-image
+matplotlib
+tifffile
+tensorflow[and-cuda]>=2.5
+csbdeep
+n2v
+jupyter

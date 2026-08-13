@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+
+# Third-party source (install with `pip install n2v`, see README)
+n2v/
+
+# Trained models & TensorBoard logs (see README for training instructions)
+models/
+*.h5
+*.hdf5
+logs/
+events.out.tfevents.*
+
+# Datasets & experiment outputs (samples kept under assets/)
+image/
+images/
+images_one/
+output/
+output_[0-9]*/
+output_one/
+output_one_[0-9]*/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
